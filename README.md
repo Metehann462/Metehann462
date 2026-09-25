@@ -28,15 +28,6 @@ Merhaba, ben Metehan. Bulut bilişim, sistem yönetimi ve otomasyon konularında
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Metehann462&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metehann462&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 <p align="center">
   📫 Bana ulaşmak veya projelerimi incelemek için <a href="https://metehanilhan.com.tr">metehanilhan.com.tr</a> adresini ziyaret edebilirsin!
 </p>
