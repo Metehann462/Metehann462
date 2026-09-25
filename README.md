@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" alt="Metehan İlhan Logo" width="180px" style="border-radius: 50%;" />
+</p>
 <h1 align="center">Hi there 👋, I'm Metehan İlhan</h1>
 <p align="center">Bulut Bilişim Operatörlüğü Öğrencisi | Cloud, Linux, Network & DevOps</p>
 
