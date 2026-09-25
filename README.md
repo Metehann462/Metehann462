@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Metehan İlhan Logo" width="250px" style="border-radius: 50%;" />
+  <img src="logo.png" alt="Metehan İlhan Logo" width="1080px" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi there 👋, I'm Metehan İlhan</h1>
 <p align="center">Bulut Bilişim Operatörlüğü Öğrencisi | Cloud, Linux, Network & DevOps</p>
